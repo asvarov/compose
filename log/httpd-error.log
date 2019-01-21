@@ -1,0 +1,7 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.23.0.5. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 21 15:11:08.454921 2019] [mpm_event:notice] [pid 1:tid 139945674011840] AH00489: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Jan 21 15:11:08.455146 2019] [core:notice] [pid 1:tid 139945674011840] AH00094: Command line: 'httpd -D FOREGROUND'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.23.0.5. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 21 15:13:34.106440 2019] [mpm_event:notice] [pid 1:tid 140594492658880] AH00489: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Jan 21 15:13:34.106676 2019] [core:notice] [pid 1:tid 140594492658880] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Jan 21 15:15:28.941217 2019] [mpm_event:notice] [pid 1:tid 140594492658880] AH00491: caught SIGTERM, shutting down
