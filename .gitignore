@@ -1,0 +1,6 @@
+ibdata1
+ib_logfile0
+ib_logfile1
+./mariadb/phpmyadmin/*
+./mariadb/performance_schema/*
+./mariadb/mysql/*
