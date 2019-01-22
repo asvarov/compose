@@ -6,7 +6,7 @@ aria_log_control
 ib_buffer_pool
 ibtmp1
 multi-master.info
-tc.log
+*.log
 ./mariadb/phpmyadmin/*
 ./mariadb/performance_schema/*
 ./mariadb/mysql/*
