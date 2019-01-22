@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  mariadb:
+    build:
+      ./mariadb
+    volumes:
+      - ./mariadb:/var/lib/mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=${DBROOTPWD}

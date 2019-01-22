@@ -1,0 +1,1 @@
+docker-compose --file docker-httpd.yml --file docker-nginx.yml --file docker-mariadb.yml --file docker-php.yml up --build "$@"
