@@ -15,3 +15,14 @@ AH00558: httpd: Could not reliably determine the server's fully qualified domain
 [Tue Jan 22 07:35:27.095693 2019] [mpm_event:notice] [pid 1:tid 140060779152576] AH00489: Apache/2.4.37 (Unix) configured -- resuming normal operations
 [Tue Jan 22 07:35:27.095901 2019] [core:notice] [pid 1:tid 140060779152576] AH00094: Command line: 'httpd -D FOREGROUND'
 [Tue Jan 22 07:36:40.548561 2019] [mpm_event:notice] [pid 1:tid 140060779152576] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.25.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 22 07:57:29.351549 2019] [mpm_event:notice] [pid 1:tid 140015316550848] AH00489: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Tue Jan 22 07:57:29.351759 2019] [core:notice] [pid 1:tid 140015316550848] AH00094: Command line: 'httpd -D FOREGROUND'
+[Tue Jan 22 08:45:36.286413 2019] [mpm_event:notice] [pid 1:tid 140015316550848] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.25.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 22 08:45:37.054300 2019] [mpm_event:notice] [pid 1:tid 140348828718272] AH00489: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Tue Jan 22 08:45:37.054520 2019] [core:notice] [pid 1:tid 140348828718272] AH00094: Command line: 'httpd -D FOREGROUND'
+[Tue Jan 22 08:46:57.769335 2019] [mpm_event:notice] [pid 1:tid 140348828718272] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.25.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 22 08:52:20.501998 2019] [mpm_event:notice] [pid 1:tid 140560099669184] AH00489: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Tue Jan 22 08:52:20.502206 2019] [core:notice] [pid 1:tid 140560099669184] AH00094: Command line: 'httpd -D FOREGROUND'
